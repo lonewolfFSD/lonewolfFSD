@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 `About Me`:
 👨‍💻 Full Stack Developer<br>💼 Passionate about: Building dynamic web applications and creating seamless user experiences.<br>🌟 Skills: Front-End | Back-End<br>🎯 Focus Areas: Clean code, efficient algorithms, and scalable solutions.<br>☁️ Hobbies: Coding, playing guitar, and painting.<br>🚀 Goal: Continuously learning and pushing the boundaries of what’s possible with technology.
 
 
